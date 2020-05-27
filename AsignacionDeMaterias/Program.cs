@@ -6,7 +6,7 @@ namespace AsignacionDeMaterias
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Esto es master");   
+            Console.WriteLine("Esto es develop");   
             MenuPrincipal menuPrincipal = new MenuPrincipal();
             menuPrincipal.ImprimirMenu();
         }
